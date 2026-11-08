@@ -6,3 +6,6 @@ ST-04,Представник студентських організацій,С�
 ST-05,Відповідальний за видачу обладнання,Господарська частина академії,high,low,neutral,keep_informed,BA
 ST-06,Представник ІТ-служби академії,ІТ-служба академії,low,high,neutral,keep_satisfied,Dev 1
 ST-07,Організатор разових заходів,Користувачі академії,low,low,neutral,monitor,BA
+ST-08,Викладачі,Навчальна частина академії,high,low,supporter,keep_informed,BA
+ST-09,Адміністратор аудиторій,Господарська частина академії,high,high,neutral,manage_closely,BA
+ST-10,Керівництво навчального закладу,Адміністрація академії,low,high,neutral,keep_satisfied,PM
