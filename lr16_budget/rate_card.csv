@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,400,360,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,Часткова зайнятість 50 відсотків; ставка 0.75 ставки Dev; керування строком і змінами
+BA,1,800,380,https://dou.ua/lenta/articles/salary-report-data-summer-2026/,Повна зайнятість; аналіз вимог і даних; ставка 0.792 ставки Dev
+Dev,2,1600,480,https://dou.ua/lenta/articles/salary-report-devs-summer-2026/,Два розробники по 100 відсотків; технічно найскладніші модулі
+QA,0.5,400,330,https://dou.ua/lenta/articles/salary-report-qa-summer-2026/,Півставки; ставка 0.688 ставки Dev; тестування та приймання
